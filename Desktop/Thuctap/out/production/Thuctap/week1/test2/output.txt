@@ -1,0 +1,16 @@
+'' - 1
+Aa - 1
+sáo - 1
+sao - 2
+./ - 1
+van - 5
+sào - 1
+tien - 1
+ai - 1
+do - 1
+dao - 1
+123456 - 1
+doa - 1
+dang - 6
+tinh - 1
+toan - 6
